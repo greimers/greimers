@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👋 Hi! I’m Gabriel!
 
-<!--
-**greimers/greimers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer from Berlin. Focusing on iOS and Mac development.
 
-Here are some ideas to get you started:
+## 👨‍🔬 Projects I’m proud of
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛳 [Loqbooq](https://loqbooq.app)** - Decision log for your team
+
+**🗯 [Wokabulary](https://wokabulary.com)** - Flash card vocabulary app for Mac, iPhone and iPad
+
+**🐙 [Tincta](https://codingfriends.github.io/Tincta)** - Open source text editor for macOS
+
+
+
+## 👨‍🏭 Available for hire
+
+I’m the co-founder of **[Coding Friends UG](https://coding-friends.com)**, a development studio for Mac and iOS apps.  
+
+
+
