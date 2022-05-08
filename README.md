@@ -10,6 +10,8 @@ I’m a software developer from Berlin. Focusing on iOS and Mac development.
 
 **🐙 [Tincta](https://codingfriends.github.io/Tincta)** - Open source text editor for macOS
 
+**🧁 [Macarons](https://macarons-roulette.app)** - Chat roulette for Slack
+
 
 
 ## 👨‍🏭 Available for hire
