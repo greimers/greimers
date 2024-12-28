@@ -8,9 +8,9 @@ I’m a software developer from Berlin. Focusing on iOS and Mac development.
 
 **🧁 [Macarons](https://macarons-roulette.app)** - Chat roulette for Slack
 
-**🛳 [Loqbooq](https://loqbooq.app)** - Decision log for your team
+**⌘ [Shortcards](https://shortcards.app)** - Mac keyboard cheat sheet cards
 
-**🐙 [Tincta](https://codingfriends.github.io/Tincta)** - Open source text editor for macOS
+**🇰🇷 [Koreanisch-Deutsch CSV Wortlisten](https://github.com/greimers/koreanisch-deutsch-csv-wortlisten)** - Free Korean-German CSV wordlists
 
 
 
